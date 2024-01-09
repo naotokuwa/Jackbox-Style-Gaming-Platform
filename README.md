@@ -1,4 +1,4 @@
-# Social Gaming
+# Jackbox‑Style Gaming Platform
 
 ## Dependencies
 This project requires the following:
@@ -11,7 +11,7 @@ This project requires the following:
 ## Building
 1. Clone the repository.
     ```
-    git clone https://csil-git1.cs.sfu.ca/373-23-3-gobstopper/social-gaming.git
+    git clone https://github.com/naotokuwa/Jackbox-Style-Gaming-Platform
     ```
 
 2. Create a new directory for the build (outside of the source code).
